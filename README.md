@@ -1,8 +1,8 @@
-#Reddit Bot
-This is a moderator bot using https://www.npmjs.com/package/snoostorm
+# Reddit Bot
+## This is a moderator bot using https://www.npmjs.com/package/snoostorm
 
-Go to https://www.reddit.com/prefs/apps and hit "create app"
+* Go to https://www.reddit.com/prefs/apps and hit "create app"
 
-Configure credentials 
+* Configure credentials 
 
-Run & Deploy bot
+* Run & Deploy bot

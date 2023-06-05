@@ -12,6 +12,7 @@ const comments = new CommentStream(client, {
     pollTime: 10000 
 });
 
+//logs most recent 10 comments
 comments.on('item', (item) => {
     console.log(item);
 });
