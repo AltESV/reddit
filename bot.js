@@ -17,7 +17,7 @@ comments.on('item', (item) => {
     console.log(item);
 });
 
-//Creates an infinite loop
+//Creates an infinite loop need to add filter conditions
 // comments.on('item', (item) => {
 //     if(item.created_utc < BOT_START) return;
 
